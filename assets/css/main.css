@@ -1,0 +1,112 @@
+header {
+    color:white;
+    font-family: roboto;
+    font-size:50px;
+
+}
+
+a {
+    color: white;
+    font-family: roboto;
+}
+
+i{
+    color:white;
+    font-family: roboto;
+}
+h1{
+    color: white;
+    font-family: roboto;
+}
+h2{
+    color: white;
+    font-family: roboto;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+}
+label{
+    color:white;
+    font-family: roboto;
+}
+
+
+.img150
+{
+float: left;
+margin:auto;
+padding: auto;
+}
+
+.linkbutton
+{
+height: 125px;
+width: 125px;
+display: inline-block;
+vertical-align: top;
+}
+.filter-white{
+filter:invert(96%) sepia(12%) saturate(15%) hue-rotate(235deg) brightness(103%) contrast(100%);
+}
+.filter-yt{
+filter: invert(24%) sepia(96%) saturate(7115%) hue-rotate(358deg) brightness(101%) contrast(114%);
+}
+.filter-tw{
+filter: invert(31%) sepia(33%) saturate(1135%) hue-rotate(219deg) brightness(95%) contrast(101%);
+}
+.filter-st{
+filter: invert(6%) sepia(27%) saturate(674%) hue-rotate(183deg) brightness(91%) contrast(91%);
+}
+
+#linkList {
+height: 125px;
+text-align: center;
+}
+
+.linkButtonHome, .linkButtonHome a {
+height: 125px;
+width: 125px;
+display: inline-block;
+vertical-align: top;
+color: white;
+}   
+
+.linkButtonTW, .linkButtonTW a {
+height: 125px;
+width: 125px;
+display: inline-block;
+vertical-align: top;
+color: rgb(95, 19, 95);
+}   
+.linkButtonST, .linkButtonST a {
+height: 125px;
+width: 125px;
+display: inline-block;
+vertical-align: top;
+color: darkslategray;
+}   
+.linkButtonGH, .linkButtonGH a {
+height: 125px;
+width: 125px;
+display: inline-block;
+vertical-align: top;
+color: grey;
+}      
+.linkButtonKIT, .linkButtonKIT a {
+height: 125px;
+width: 125px;
+display: inline-block;
+vertical-align: top;
+color: limegreen;
+}    
+.linkButtonDC, .linkButtonDC a {
+height: 125px;
+width: 125px;
+display: inline-block;
+vertical-align: top;
+color: mediumslateblue;
+}   
